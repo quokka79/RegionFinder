@@ -2,7 +2,7 @@
 
 First Time Installation
 
-Run the .mlappinstall file within the package folder: MATLAB will open and ask you if you want to add RegionFinder to your Apps toolbar. Select 'Install'.
+Run the .mlappinstall file and MATLAB will open and ask you if you want to add RegionFinder to your Apps toolbar. Select 'Install'.
 You can now run RegionFinder from the Apps toolbar
 
 Upgrading RegionFinder
